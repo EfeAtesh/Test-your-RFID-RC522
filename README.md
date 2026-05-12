@@ -29,6 +29,8 @@ This project is a test sketch for using the RFID-RC522 module with an ESP32-S (3
   5V        o----|                               |----o CLK / GPIO6
                  +-------------------------------+
 ```
+  Refence: https://www.espboards.dev/esp32/nodemcu-32s/
+
 
 ### Pin Mapping
 
