@@ -49,6 +49,7 @@ This project is a test sketch for using the RFID-RC522 module with an ESP32-S (3
 
 This sketch requires the following Arduino libraries:
 - `MFRC522` by GithubCommunity
+Download it from arduino ide. I don't recommend other IDEs
 
 ## Usage
 
